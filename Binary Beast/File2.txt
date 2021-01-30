@@ -3,3 +3,19 @@ Public int division(int a, int b)
 {
 	return a/b;
 }
+
+
+
+//A00443079
+//Modulus Function  
+Public int mod(int a, int b)
+{
+	return a%b;
+}
+
+//A00443079
+//Minimum Function  
+Public int min(int a, int b)
+{
+	return Math.min(a,b);
+}
