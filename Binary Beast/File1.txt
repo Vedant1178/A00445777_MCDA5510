@@ -3,3 +3,19 @@ Public int addition(int a, int b)
 {
 	return a+b;
 }
+
+
+
+//A00443079
+//Subtraction Function  
+Public int subtraction(int a, int b)
+{
+	return a-b;
+}
+
+//A00443079
+//Multiplication Function  
+Public int multiplication(int a, int b)
+{
+	return a*b;
+}
